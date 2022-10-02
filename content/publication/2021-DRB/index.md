@@ -8,16 +8,14 @@ authors:
   - Zhihui Du
   - admin
   - David A. Bader
-  - Michael Merrill
-  - William Reus
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-06-04T00:00:00Z'
-doi: 'https://doi.org/10.1201/9781003033707'
+date: '2021-09-01T00:00:00Z'
+doi: '10.1109/HPEC49654.2021.9622860'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-01T00:00:00Z'
@@ -32,7 +30,7 @@ publication_types: ['1']
 publication: In *Chapel Users and Implementers Workshop*
 publication_short: In *CHIUW*
 
-abstract: Exploratory graph analytics helps maximize the informational value for a graph. However, the increasing graph size makes it impossible for existing popular exploratory data analysis tools to handle dozens-of-terabytes or even larger data sets in the memory of a common laptop/personal computer. Arkouda is a framework under early-development that brings together the productivity of Python at the user side with the high-performance of Chapel at the server side. In this paper, the preliminary work on overcoming the memory limit and high performance computing coding roadblock for high level Python users to perform large graph analysis is presented. A simple and succinct graph data structure design and implementation at both the Python front-end and the Chapel back-end in the Arkouda framework are provided. A typical graph algorithm, Breadth-First Search (BFS), is used to show how we can use Chapel to develop high performance parallel graph algorithm productively. Two Chapel based parallel Breadth-First Search (BFS) algorithms, one high level version and one corresponding low level version, have been implemented in Arkouda to support analyzing large graphs. Multiple graph benchmarks are used to evaluate the performance of the provided graph algorithms. Experimental results show that we can optimize the performance by tuning the selection of different Chapel high level data structures and parallel constructs. Our code is open source and available from GitHub (https://github.com/Bader-Research/arkouda).
+abstract: Exploratory graph analytics helps maximize the informational value from a graph. However, increasing graph sizes makes it impossible for existing popular exploratory data analysis tools to handle dozens of terabytes or even larger data sets in the memory of a common laptop/personal computer. Arkouda is a framework under early development that brings together the productivity of Python at the user-side with the high performance of Chapel at the server-side. In this paper, we present our initial work on overcoming the memory limit and high-performance computing coding roadblocks for high-level Python users to perform large graph analyses. Based on a simple and succinct graph data structure, a high-level Chapel-based graph algorithm, Breadth-First Search (BFS), is presented to show the scalable and parallel graph algorithm development method in a productive way through Arkouda. The reverse Cuthill–McKee (RCM) algorithm is implemented in Chapel to relabel the vertices of a graph as a preprocessing step to improve the performance of BFS and one low-level BFS algorithm is also developed to compare with the performance of high-level method. Both synthetic graphs and typical graph benchmarks are used to evaluate the performance of the provided graph algorithms. The experimental results show that, based on the proposed high-level algorithm framework, the performance of BFS can be improved significantly and easily by simply selecting suitable Chapel high-level data structures and parallel constructs. Our code is open source and available from GitHub (https://github.com/Bader-Research/arkouda).
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -47,7 +45,7 @@ featured: false
 # - name: Buy
 #   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: content/publication/2021-ZRBMR/2021-zrbmr.pdf
+url_pdf: content/publication/2021-DRB/2021-drb.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
