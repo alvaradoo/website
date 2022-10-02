@@ -39,7 +39,7 @@ abstract: "Graphs. Such a simple idea. Map a problem onto a graph then solve it 
 # tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
