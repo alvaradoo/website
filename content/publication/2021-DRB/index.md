@@ -1,5 +1,5 @@
 ---
-title: 'Exploratory Large Scale Graph Analytics in Arkouda'
+title: 'Enabling Exploratory Large Scale Graph Analytics through Arkouda'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +27,8 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Chapel Users and Implementers Workshop*
-publication_short: In *CHIUW*
+publication: In *High Performance Extreme Computing*
+publication_short: In *HPEC*
 
 abstract: Exploratory graph analytics helps maximize the informational value from a graph. However, increasing graph sizes makes it impossible for existing popular exploratory data analysis tools to handle dozens of terabytes or even larger data sets in the memory of a common laptop/personal computer. Arkouda is a framework under early development that brings together the productivity of Python at the user-side with the high performance of Chapel at the server-side. In this paper, we present our initial work on overcoming the memory limit and high-performance computing coding roadblocks for high-level Python users to perform large graph analyses. Based on a simple and succinct graph data structure, a high-level Chapel-based graph algorithm, Breadth-First Search (BFS), is presented to show the scalable and parallel graph algorithm development method in a productive way through Arkouda. The reverse Cuthill–McKee (RCM) algorithm is implemented in Chapel to relabel the vertices of a graph as a preprocessing step to improve the performance of BFS and one low-level BFS algorithm is also developed to compare with the performance of high-level method. Both synthetic graphs and typical graph benchmarks are used to evaluate the performance of the provided graph algorithms. The experimental results show that, based on the proposed high-level algorithm framework, the performance of BFS can be improved significantly and easily by simply selecting suitable Chapel high-level data structures and parallel constructs. Our code is open source and available from GitHub (https://github.com/Bader-Research/arkouda).
 
