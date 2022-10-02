@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: oaa9@njit.edu
-  phone: 973 596 3000
+  phone:
   address:
     street: 218 Central Ave.
     city: Newark
@@ -37,14 +37,10 @@ content:
   coordinates:
     latitude: '40.74456'
     longitude: '-74.17956'
-  directions: Enter William S. Guttenberg Information Technologies Center (GITC) and take elevator to fourth floor.
+  directions:
   office_hours:
   appointment_url:
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/OliverAlvaRod
 
 design:
   columns: '2'
