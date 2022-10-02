@@ -31,13 +31,7 @@ publication_types: ['6']
 publication: In *Massive Graph Analytics *
 publication_short: In *Massive Graph Analytics *
 
-abstract: "Graphs. Such a simple idea. Map a problem onto a graph then solve it by searching over the graph or by exploring the structure of the graph. What could be easier? Turns out, however, that working with graphs is a vast and complex field. Keeping up is challenging. To help keep up, you just need an editor who knows most people working with graphs, and have that editor gather nearly 70 researchers to summarize their work with graphs. The result is the book Massive Graph Analytics."
-
-— Timothy G. Mattson, Senior Principal Engineer, Intel Corp
-
-Expertise in massive-scale graph analytics is key for solving real-world grand challenges from healthcare to sustainability to detecting insider threats, cyber defense, and more. This book provides a comprehensive introduction to massive graph analytics, featuring contributions from thought leaders across academia, industry, and government.
-
-Massive Graph Analytics will be beneficial to students, researchers, and practitioners in academia, national laboratories, and industry who wish to learn about the state-of-the-art algorithms, models, frameworks, and software in massive-scale graph analytics.
+abstract: "Graphs. Such a simple idea. Map a problem onto a graph then solve it by searching over the graph or by exploring the structure of the graph. What could be easier? Turns out, however, that working with graphs is a vast and complex field. Keeping up is challenging. To help keep up, you just need an editor who knows most people working with graphs, and have that editor gather nearly 70 researchers to summarize their work with graphs. The result is the book Massive Graph Analytics." Timothy G. Mattson, Senior Principal Engineer, Intel Corp. Expertise in massive-scale graph analytics is key for solving real-world grand challenges from healthcare to sustainability to detecting insider threats, cyber defense, and more. This book provides a comprehensive introduction to massive graph analytics, featuring contributions from thought leaders across academia, industry, and government. Massive Graph Analytics will be beneficial to students, researchers, and practitioners in academia, national laboratories, and industry who wish to learn about the state-of-the-art algorithms, models, frameworks, and software in massive-scale graph analytics.
 
 # Summary. An optional shortened abstract.
 # summary:
