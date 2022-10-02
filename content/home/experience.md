@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle:
+title: Recent Experience
+subtitle: For complete work history refer to CV by clicking CV icon on the homepage.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -38,7 +38,7 @@ experience:
     location: New Jersey
     date_start: '2020-06-01'
     date_end: '2020-08-01'
-    description: Researched machine learning classification algorithms best suited for text data. **For full work history please refer to CV.**
+    description: Researched machine learning classification algorithms best suited for text data.
 
 design:
   columns: '2'
