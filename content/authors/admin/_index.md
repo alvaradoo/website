@@ -59,13 +59,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/oliver-alvarado-rod/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'oaa9@njit.edu'
