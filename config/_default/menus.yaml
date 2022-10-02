@@ -6,19 +6,25 @@
 main:
   - name: Home
     url: '#about'
-    weight: 1
+    weight: 10
   - name: Projects
     url: '#projects'
-    weight: 2
+    weight: 80
   - name: Talks
     url: '#talks'
-    weight: 3
+    weight: 70
   - name: Publications
     url: '#featured'
-    weight: 4
+    weight: 20
+  - name: Experience
+    url: '#experience'
+    weight: 30
   - name: Posts
     url: '#posts'
-    weight: 5
-  - name: Curriculum Vitae
-    url: uploads/cv.pdf
-    weight: 6
+    weight: 60
+  - name: Experience
+    url: '#experience'
+    weight: 40
+  - name: Accomplishments
+    url: 'accomplishments'
+    weight: 50
