@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
-    company_logo: assets/media/njit.png
+    company_logo:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: ''
