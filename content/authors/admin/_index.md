@@ -10,7 +10,7 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate at New Jersey Institute of Technology
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,26 +18,22 @@ organizations:
     url: https://www.njit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi! Welcome to my webpage. My name is Oliver Alvarado Rodriguez and I am completing my Ph.D. at New Jersey Institute of Technology. My work has primarily been with the design and analysis of parallel graph algorithms for large-scale analytics. Currently, I am working on optimization of parallel algorithms and analysis for large-scale strings, hypergraphs, etc. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High Performance Computing
+  - Massive Scale Data Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Computer Sciencee
+      institution: New Jersey Institute of Technology
+      year: est. 2024
+    - course: B.S. in Computer Science
+      institution: William Paterson University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
