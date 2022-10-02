@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics.
 
-    - title: Data Science Intern
+  - title: Data Science Intern
     company: Chubb Insurance
     company_url: 'https://www.chubb.com/us-en/'
     company_logo:
