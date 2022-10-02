@@ -29,7 +29,25 @@ experience:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: ''
-    description: Performed research under the supervision of David Bader while pursuing doctoral studies. Research was in the areas of high performance computing, massive scale data analytics, and graph analytics. **For full work history please refer to CV.**
+    description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics. Explored the research process from literature review through algorithm design, implementation, and performance optimization. Published algorithms and results in various conferences and journals such as IEEE’s High Performance Extreme Computing conference and MDPI’s Algorithms journal. 
+
+    - title: Data Science Intern
+    company: Chubb Insurance
+    company_url: 'https://www.chubb.com/us-en/'
+    company_logo:
+    location: New Jersey
+    date_start: '2020-06-01'
+    date_end: '2020-08-01'
+    description: Researched machine learning classification algorithms best suited for text data. Comfortable with multiple Python libraries such as sci-kit learn, pandas, numpy, requests, and others. Created an API that pulled pertinent information from databases, predicted sex given at birth for insurance leads, and returned a new table for their sales team. Managed project through Chubb’s enterprise GitHub and worked on an Agile software development schedule. Presented progress weekly to supervisor and larger data science team.
+
+    - title: **For full work experience please refer to CV.**
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start:
+    date_end:
+    description:
 
 design:
   columns: '2'
