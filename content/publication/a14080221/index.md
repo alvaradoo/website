@@ -11,12 +11,12 @@ authors:
   - David A. Bader
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3390/a14080221'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-06-01T00:00:00Z'
