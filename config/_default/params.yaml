@@ -61,10 +61,10 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: cyberpunk
+    theme_dark: dark
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
