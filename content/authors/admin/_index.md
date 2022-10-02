@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Oliver Alvarado Rodriguez
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Oliver
+last_name: Alvarado Rodriguez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate at New Jersey Institute of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
