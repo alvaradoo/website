@@ -30,7 +30,7 @@ education:
   courses:
     - course: Ph.D. in Computer Sciencee
       institution: New Jersey Institute of Technology
-      year: est. 2024
+      year: 2024
     - course: B.S. in Computer Science
       institution: William Paterson University
       year: 2020
@@ -42,19 +42,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: oaa9@njit.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/OliverAlvaRod
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alvaradoo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/oliver-alvarado-rod/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,14 +64,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'oaa9@njit.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Oliver Alvarado Rodriguez is currently a computer science Ph.D. student at NJIT in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, machine learning, and graph theory. He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was recently awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: “Enabling Exploratory Large Scale Graph Analytics through Arkouda.”
