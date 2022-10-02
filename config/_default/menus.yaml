@@ -22,7 +22,3 @@ main:
   - name: Curriculum Vitae
     url: uploads/cv.pdf
     weight: 5
-  - name: Contact
-    url: '#contact'
-    weight: 6
-
