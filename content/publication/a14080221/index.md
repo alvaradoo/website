@@ -14,7 +14,6 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -35,9 +34,9 @@ publication_short: In *Algorithms*
 abstract: Data from emerging applications, such as cybersecurity and social networking, can be abstracted as graphs whose edges are updated sequentially in the form of a stream. The challenging problem of interactive graph stream analytics is the quick response of the queries on terabyte and beyond graph stream data from end users. In this paper, a succinct and efficient double index data structure is designed to build the sketch of a graph stream to meet general queries. A single pass stream model, which includes general sketch building, distributed sketch based analysis algorithms and regression based approximation solution generation, is developed, and a typical graph algorithm—triangle counting—is implemented to evaluate the proposed method. Experimental results on power law and normal distribution graph streams show that our method can generate accurate results (mean relative error less than 4%) with a high performance. All our methods and code have been implemented in an open source framework, Arkouda, and are available from our GitHub repository, Bader-Research. This work provides the large and rapidly growing Python community with a powerful way to handle terabyte and beyond graph stream data using their laptops.
 
 # Summary. An optional shortened abstract.
-summary:
+# summary:
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,36 +46,36 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: ''
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  -
+# projects:
+#   -
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+# slides:
 ---
 
 <!-- {{% callout note %}}

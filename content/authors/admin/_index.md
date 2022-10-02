@@ -18,7 +18,7 @@ organizations:
     url: https://www.njit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! Welcome to my webpage. My name is Oliver Alvarado Rodriguez and I am completing my Ph.D. at New Jersey Institute of Technology. My work has primarily been with the design and analysis of parallel graph algorithms for large-scale analytics. Currently, I am working on optimization of parallel algorithms and analysis for large-scale strings, hypergraphs, etc. 
+bio:
 
 # Interests to show in About widget
 interests:
