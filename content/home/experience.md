@@ -29,7 +29,7 @@ experience:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: ''
-    description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics. Explored the research process from literature review through algorithm design, implementation, and performance optimization. Published algorithms and results in various conferences and journals such as IEEE’s High Performance Extreme Computing conference and MDPI’s Algorithms journal. 
+    description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics. Explored the research process from literature review through algorithm design, implementation, and performance optimization. Published algorithms and results in various conferences and journals such as IEEE\'s High Performance Extreme Computing conference and MDPI\'s Algorithms journal. 
 
     - title: Data Science Intern
     company: Chubb Insurance
