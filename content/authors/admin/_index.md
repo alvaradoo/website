@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Sciencee
+    - course: Ph.D. in Computer Science
       institution: New Jersey Institute of Technology
       year: 2024
     - course: B.S. in Computer Science
