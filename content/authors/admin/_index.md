@@ -23,7 +23,8 @@ bio: Hi! Welcome to my webpage. My name is Oliver Alvarado Rodriguez and I am co
 # Interests to show in About widget
 interests:
   - High Performance Computing
-  - Massive Scale Data Analysis
+  - Massive Scale Data Analytics
+  - Graph Analytics
 
 # Education to show in About widget
 education:
@@ -49,7 +50,7 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
-  - icon: rsearchgate
+  - icon: researchgate
     icon_pack: ai
     link: https://www.oliveralvaradorodriguez.net/
   - icon: github
