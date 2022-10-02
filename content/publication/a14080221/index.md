@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021'
+date: '2021-06-01T00:00:00Z'
 doi: 'https://doi.org/10.3390/a14080221'
 
 # Schedule page publish date (NOT publication's date).
