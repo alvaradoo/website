@@ -42,7 +42,7 @@ abstract: \"Graphs. Such a simple idea. Map a problem onto a graph then solve it
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Webpage
   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
