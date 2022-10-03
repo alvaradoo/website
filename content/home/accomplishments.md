@@ -31,14 +31,14 @@ item:
     organization_url: https://www.ams.org/home/page
     title: Mathematics Research Community Participant
     url: http://www.ams.org/programs/research-communities/mrc-22
-  - certificate_url: https://cs-cit.wpunj.edu/cs/assets/dept_resources/ooa.pdf
+  - certificate_url:
     date_end:
     date_start: '2020-05-01'
     description: Awarded to the highest-GPA graduating senior in computer science.
     organization: William Paterson University
     organization_url: https://www.wpunj.edu/
     title: Omicron Omega Award for Excellence in Computer Science
-    url: https://cs-cit.wpunj.edu/cs/department-resources.html
+    url: https://cs-cit.wpunj.edu/cs/assets/dept_resources/ooa.pdf
   - certificate_url:
     date_end:
     date_start: '2019-05-01'
