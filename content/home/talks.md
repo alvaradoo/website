@@ -30,6 +30,13 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Tutorials
+      tag: tutorial
+    - name: Talks
+      tag: talk
 
 design:
   # Choose a view for the listings:
