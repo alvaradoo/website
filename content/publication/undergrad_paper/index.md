@@ -12,8 +12,7 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+  - 'Best presentation award.'
 
 date: '2020-12-01T00:00:00Z'
 doi: '10.1145/3441250.3441277'
