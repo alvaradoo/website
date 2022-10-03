@@ -12,7 +12,7 @@ address:
   postcode: '92617'
   country: United States
 
-summary: A student keynote talk made durin my second year of Ph.D. on enabling large-scale graph analytics for data scientists.
+summary: A student keynote talk made during my second year of Ph.D. on enabling large-scale graph analytics for data scientists.
 abstract: Exploratory graph analytics is a much sought out approach to help extract useful information from graphs. One of its main challenges arises when the size of the graph expands outside of the memory capacity that a typical computer can handle. Solutions must then be developed to allow data scientists to efficiently handle and analyze large graphs, using machines that have the capacity to handle massive file sizes. Arkouda is a software package under early development created with the intent to bridge the gap between massive parallel computations and data scientists wishing to perform exploratory data analysis. In this talk, Oliver will highlight the recent contributions made to enable graph analytics in Arkouda, their importance, the challenges that presented themselves, and future steps that need to be taken. This work can help further bridge the gap between high-performance computing (HPC) software and data science to create a framework that is straightforward for all data scientists to use.
 
 # Talk start and end times.

@@ -38,7 +38,7 @@ abstract: Machine learning (ML) is becoming a powerful tool for a variety of app
 # tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
