@@ -1,5 +1,5 @@
 ---
-title: 'Enabling Exploratory Large Scale Graph Analytics through Arkouda'
+title: 'Large Scale String Analytics In Arkouda'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
