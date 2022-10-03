@@ -18,7 +18,7 @@ abstract: Exploratory graph analytics is a much sought out approach to help extr
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-03-09T13:00:00Z'
-date_end: '2022-03-31T14:00:00Z'
+date_end: '2022-03-09T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
