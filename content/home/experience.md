@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Recent Experience
-subtitle: For complete work history refer to CV by clicking CV icon on the homepage.
+subtitle: For complete work history refer to my [curriculum vitate](uploads/cv.pdf).
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
