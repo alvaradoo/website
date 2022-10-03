@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
+  - certificate_url:
+    date_end:
     date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    description: Week-long workshop solving problem(s) related to hypergraphs. Acceptance rate of <50%.
+    organization: American Mathematical Society
+    organization_url: https://www.ams.org/home/page
+    title: Mathematics Research Community Participant
+    url: http://www.ams.org/programs/research-communities/mrc-22
+  - certificate_url: https://cs-cit.wpunj.edu/cs/assets/dept_resources/ooa.pdf
+    date_end:
+    date_start: '2020-05-01'
+    description: Awarded to the highest-GPA graduating senior in computer science.
+    organization: William Paterson University
+    organization_url: https://www.wpunj.edu/
+    title: Omicron Omega Award for Excellence in Computer Science
+    url: https://cs-cit.wpunj.edu/cs/department-resources.html
+  - certificate_url:
+    date_end:
+    date_start: '2019-05-01'
+    description: Admittance to computer science students who maintain at least a B average in all courses.
+    organization: William Paterson University
+    organization_url: https://www.wpunj.edu/
+    title: Upsilon Pi Epsilon International Honor Society
+    url: https://upe.acm.org/
 
 design:
   columns: '2'
