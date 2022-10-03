@@ -11,7 +11,7 @@ authors:
   - Bogong Su
 
 # Author notes (optional)
-# author_notes:
+author_notes:
   - 'Best presentation award.'
 
 date: '2020-12-01T00:00:00Z'
