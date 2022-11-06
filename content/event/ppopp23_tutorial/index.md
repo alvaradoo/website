@@ -31,8 +31,8 @@ tags: [tutorial]
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: Arachne + Arkouda logos.
+  focal_point: Center
 
 links:
 url_code: https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
