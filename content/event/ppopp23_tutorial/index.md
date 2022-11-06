@@ -30,9 +30,9 @@ tags: [tutorial]
 # Is this a featured talk? (true/false)
 featured: true
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
 url_code: https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
@@ -69,7 +69,7 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
 ## Outline
-**Note: outline timings and slides are subject to change.** 
+**Note: Outline timings and slides are subject to change.** 
 1. Introduction (1:20pm - 2:00pm) [slides]
 2. Break (2:00pm-2:20pm)
 3. Data Analytics (2:20pm - 3:20pm) [slides]
