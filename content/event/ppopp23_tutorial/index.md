@@ -28,7 +28,7 @@ authors: [admin, Naren Khatwani, Zhihui Du, and David Bader]
 tags: [tutorial]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -67,3 +67,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+
+The outline of the tutorial is as follows:
