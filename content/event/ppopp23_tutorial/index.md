@@ -31,7 +31,7 @@ tags: [tutorial]
 featured: true
 
 image:
-  caption: Arachne + Arkouda logos.
+  caption: Arkouda + Arachne logos.
   focal_point: Center
 
 links:
