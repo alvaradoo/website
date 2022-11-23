@@ -23,9 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+    - certificate_url:
+    date_end:
+    date_start: '2022-10-06'
+    description: Travel grant award to attend The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2022. Acceptance rate of <20%.
+    organization: IEEE Technical Committee on High Performance Computing
+    organization_url: https://tc.computer.org/tchpc/
+    title: SC22 Student Travel Awards
+    url: https://tc.computer.org/tchpc/home-page/page-of-awards/
   - certificate_url:
     date_end:
-    date_start: '2021-01-25'
+    date_start: '2022-01-25'
     description: Week-long workshop solving problem(s) related to hypergraphs. Acceptance rate of <50%.
     organization: American Mathematical Society
     organization_url: https://www.ams.org/home/page
