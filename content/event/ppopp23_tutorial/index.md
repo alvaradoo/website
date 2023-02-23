@@ -69,7 +69,6 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
 ## Outline
-**Note: Outline timings and slides are subject to change.** 
 1. Introduction (1:20pm - 2:00pm) [slides]
 2. Break (2:00pm-2:20pm)
 3. Data Analytics (2:20pm - 3:20pm) [slides]
