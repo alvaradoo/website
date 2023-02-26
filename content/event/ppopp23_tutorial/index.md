@@ -69,14 +69,16 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
 ## Outline
-1. Introduction (1:20pm - 2:00pm) [slides]
-2. Break (2:00pm-2:20pm)
-3. Data Analytics (2:20pm - 3:20pm) [slides]
-4. Break (3:20pm - 3:40pm)
-5. Graph Analytics (3:40pm - 4:40pm) [slides]
-6. Break (4:40pm - 5:00pm)
-7. Conclusion (5:00pm - 5:20pm) [slides]
-8. Q&A (5:20pm - 5:40pm)
+1. Introduction (1:20pm - 2:00pm) [slides](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/introduction.pdf)
+2. Data Analytics (2:00pm - 3:20pm) [slides](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/data_analytics.pdf)
+3. Break (3:20pm - 3:40pm)
+4. Graph Analytics (3:40pm - 4:40pm) [slides](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/graph_analytics.pdf)
+5. Conclusion (4:40pm - 5:00pm) [slides](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/conclusion.pdf)
+6. General Discussion and Q&A (5:00pm - 5:40pm)
+
+## Try it yourself! 
+**Arkouda docker image:** https://github.com/Bears-R-Us/arkouda-contrib/tree/main/arkouda-docker
+**Arachne installation steps:** https://github.com/alvaradoo/arkouda-contrib/tree/main/arachne
 
 ## Author Biographies
 1. Oliver Alvarado Rodriguez - Oliver Alvarado Rodriguez is currently a computer science Ph.D. student at New Jersey Institute of Technology in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, machine learning, and graph theory. He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was recently awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: “Enabling Exploratory Large Scale Graph Analytics through Arkouda.”
