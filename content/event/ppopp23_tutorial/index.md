@@ -70,9 +70,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 ## Outline
 1. Introduction (1:20pm - 2:00pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/introduction.pdf)
-2. Data Analytics (2:00pm - 3:20pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/data_analytics.pdf)
+2. Data Analytics (2:00pm - 3:20pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/data_analytics.pdf) [[code]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/tree/main/tutorial/data_analytics)
 3. Break (3:20pm - 3:40pm)
-4. Graph Analytics (3:40pm - 4:40pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/graph_analytics.pdf)
+4. Graph Analytics (3:40pm - 4:40pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/graph_analytics.pdf) [[code]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/tree/main/tutorial/graph_analytics)
 5. Conclusion (4:40pm - 5:00pm) [[slides]](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/presentation_slides/conclusion.pdf)
 6. General Discussion and Q&A (5:00pm - 5:40pm)
 
