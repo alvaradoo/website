@@ -44,7 +44,7 @@ featured: false
 # - name: Buy
 #   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: content/publication/2021-DRB/poster_IPDPS22.pdf
+url_pdf: content/publication/2022-IPDPS_phd_forum/poster_IPDPS22.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
