@@ -23,7 +23,7 @@ bio:
 # Interests to show in About widget
 interests:
   - High Performance Computing
-  - Massive-Scale Analytics
+  - Large-Scale Graph Analytics
   - Data Science
 
 # Education to show in About widget
@@ -44,9 +44,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:oaa9@njit.edu
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/OliverAlvaRod
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
