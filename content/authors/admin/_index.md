@@ -31,7 +31,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: New Jersey Institute of Technology
-      year: expected 2024
+      year: 2025
     - course: B.S. in Computer Science
       institution: William Paterson University
       year: 2020
@@ -70,4 +70,6 @@ email: 'oaa9@njit.edu'
 highlight_name: true
 ---
 
-Oliver Alvarado Rodriguez is currently a computer science Ph.D. candidate at NJIT in Newark, NJ. He performs research under the supervision of [Dr. David Bader](https://davidbader.net/). He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, data science, and graph analytics. He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: “Enabling Exploratory Large-Scale Graph Analytics through Arkouda.”
+Oliver Alvarado Rodriguez is an incoming Research Software Engineer at Hewlett Packard Enterprise, where he will join the [Chapel](https://chapel-lang.org/) Programming Language team. He successfully defended his dissertation in March 2025 under the advisement of [Dr. David A. Bader](https://davidbader.net/). His dissertation, *"On the Design of a Framework for Large-Scale Exploratory Graph Analytics,"* focused on the development of [Arachne](https://github.com/Bears-R-Us/arkouda-njit), a novel framework designed to bridge the gap between high-performance computing and Python-based exploratory graph analytics. He completed his Ph.D. at the New Jersey Institute of Technology in Newark, NJ. Oliver earned his B.S. in Computer Science with a minor in Mathematics from William Paterson University in Wayne, NJ, graduating *summa cum laude* in May 2020. During his undergraduate studies, he was a member of the Honors College and the Upsilon Pi Epsilon honor society for computing and information disciplines. He was also honored with the Omicron Omega Award for excellence in computer science. During his Ph.D. studies, Oliver served as the student keynote speaker at the [Academic Data Science Alliance meeting](https://academicdatascience.org/), delivering the talk *"Enabling Exploratory Large-Scale Graph Analytics through Arkouda."*
+
+
