@@ -50,6 +50,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Oliver-Alvarado-Rodriguez
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0006-9269-774X
   - icon: github
     icon_pack: fab
     link: https://github.com/alvaradoo
