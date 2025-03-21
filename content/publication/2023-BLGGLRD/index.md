@@ -1,26 +1,26 @@
 ---
-title: 'Arachne: An Arkouda Package for Large-Scale Graph Analytics'
+title: 'Triangle Counting Through Cover-Edges'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Zhihui Du
-  - Joseph T. Patchett
-  - Fuhuan Li
   - David A. Bader
+  - Fuhuan Li
+  - Anya Ganeshan
+  - Ahmet Gundogdu
+  - Jason Lew
+  - Oliver Alvarado Rodriguez
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+   - 'Student Innovation Award'
 
-date: '2022-09-01T00:00:00Z'
-# doi: '10.1109/HPEC49654.2021.9622860'
+date: '2023-09-01T00:00:00Z'
+doi: '10.1109/HPEC58863.2023.10363498'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2023-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ publication_types: ['1']
 publication: In *High Performance Extreme Computing*
 publication_short: In *HPEC*
 
-abstract: Due to the emergence of massive real-world graphs, whose sizes may extend to terabytes, new tools must be developed to enable data scientists to handle such graphs efficiently. These graphs may include social networks, computer networks, and genomes. In this paper, we propose a novel graph package, Arachne, to make large-scale graph analytics more effortless and efficient based on the open-source Arkouda framework. Arkouda has been developed to allow users to perform massively parallel computations on distributed data with an interface similar to NumPy. In this package, we developed a fundamental sparse graph data structure and then built several useful graph algorithms around our data structure to form a basic algorithmic library. Benchmarks and tools were also developed to evaluate and demonstrate the use of our graph algorithms. The graph algorithms we have implemented thus far include breadth-first search (BFS), connected components (CC), k-Truss (KT), Jaccard coefficients (JC), triangle counting (TC), and triangle centrality (TCE). Their corresponding experimental results based on realworld and synthetic graphs are presented. Arachne is organized as an Arkouda extension package and is publicly available on GitHub (https://github.com/Bears-R-Us/arkouda-njit).
+abstract: Counting and finding triangles in graphs is often used in real-world analytics to characterize cohesiveness and identify communities in graphs. In this paper, we propose the novel concept of a cover-edge set that can be used to find triangles more efficiently. We use a breadth-first search (BFS) to quickly generate a compact cover-edge set. Novel sequential and parallel triangle counting algorithms are presented that employ cover-edge sets. The sequential algorithm avoids unnecessary triangle-checking operations, and the parallel algorithm is communication-efficient. The parallel algorithm can asymptotically reduce communication on massive graphs such as from real social networks and synthetic graphs from the Graph500 Benchmark. In our estimate from massive-scale Graph500 graphs, our new parallel algorithm can reduce the communication on a scale 36 graph by 1156x and on a scale 42 graph by 2368x.
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -40,14 +40,14 @@ abstract: Due to the emergence of massive real-world graphs, whose sizes may ext
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Buy
 #   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: content/publication/2022-RDPLB/2022-RDPLB.pdf
+url_pdf: content/publication/2023-BLGGLRD/2023-BLGGLRD.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

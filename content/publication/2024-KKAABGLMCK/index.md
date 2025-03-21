@@ -1,37 +1,43 @@
 ---
-title: 'Interactive Graph Stream Analytics in Arkouda'
+title: 'Community Detection in Hypergraphs via Mutual Information Maximization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhihui Du
-  - admin
-  - Joseph Patchett
-  - David A. Bader
+  - Jurgen Kritschgau
+  - Daniel Kaiser
+  - Oliver Alvarado Rodriguez
+  - Ilya Amburg
+  - Jessalyn Bolkema
+  - Thomas Grubb
+  - Fangfei Lan
+  - Sepideh Maleki
+  - Phil Chodrow
+  - Bill Kay
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-06-01T00:00:00Z'
-doi: 'https://doi.org/10.3390/a14080221'
+date: '2024-03-01T00:00:00Z'
+doi: '10.1038/s41598-024-55934-5'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-01T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Algorithms*
-publication_short: In *Algorithms*
+publication: In *Nature Scientific Reports*
+publication_short: In *Scientific Reports*
 
-abstract: Data from emerging applications, such as cybersecurity and social networking, can be abstracted as graphs whose edges are updated sequentially in the form of a stream. The challenging problem of interactive graph stream analytics is the quick response of the queries on terabyte and beyond graph stream data from end users. In this paper, a succinct and efficient double index data structure is designed to build the sketch of a graph stream to meet general queries. A single pass stream model, which includes general sketch building, distributed sketch based analysis algorithms and regression based approximation solution generation, is developed, and a typical graph algorithm—triangle counting—is implemented to evaluate the proposed method. Experimental results on power law and normal distribution graph streams show that our method can generate accurate results (mean relative error less than 4%) with a high performance. All our methods and code have been implemented in an open source framework, Arkouda, and are available from our GitHub repository, Bader-Research. This work provides the large and rapidly growing Python community with a powerful way to handle terabyte and beyond graph stream data using their laptops.
+abstract: The hypergraph community detection problem seeks to identify groups of related vertices in hypergraph data. We propose an information-theoretic hypergraph community detection algorithm which compresses the observed data in terms of community labels and community-edge intersections. This algorithm can also be viewed as maximum-likelihood inference in a degree-corrected microcanonical stochastic blockmodel. We perform the compression/inference step via simulated annealing. Unlike several recent algorithms based on canonical models, our microcanonical algorithm does not require inference of statistical parameters such as vertex degrees or pairwise group connection rates. Through synthetic experiments, we find that our algorithm succeeds down to recently-conjectured thresholds for sparse random hypergraphs. We also find competitive performance in cluster recovery tasks on several hypergraph data sets.
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -39,14 +45,14 @@ abstract: Data from emerging applications, such as cybersecurity and social netw
 # tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name: Buy
+#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: 'content/publication/a14080221/a14080221.pdf'
+url_pdf: content/publication/2024-KKAABGLMCK/2024-KKAABGLMCK.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -1,14 +1,13 @@
 ---
-title: 'Arachne: An Arkouda Package for Large-Scale Graph Analytics'
+title: 'Interactive Graph Stream Analytics in Arkouda'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Zhihui Du
-  - Joseph T. Patchett
-  - Fuhuan Li
+  - admin
+  - Joseph Patchett
   - David A. Bader
 
 # Author notes (optional)
@@ -16,23 +15,23 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
-# doi: '10.1109/HPEC49654.2021.9622860'
+date: '2021-06-01T00:00:00Z'
+doi: 'https://doi.org/10.3390/a14080221'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2021-06-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *High Performance Extreme Computing*
-publication_short: In *HPEC*
+publication: In *Algorithms*
+publication_short: In *Algorithms*
 
-abstract: Due to the emergence of massive real-world graphs, whose sizes may extend to terabytes, new tools must be developed to enable data scientists to handle such graphs efficiently. These graphs may include social networks, computer networks, and genomes. In this paper, we propose a novel graph package, Arachne, to make large-scale graph analytics more effortless and efficient based on the open-source Arkouda framework. Arkouda has been developed to allow users to perform massively parallel computations on distributed data with an interface similar to NumPy. In this package, we developed a fundamental sparse graph data structure and then built several useful graph algorithms around our data structure to form a basic algorithmic library. Benchmarks and tools were also developed to evaluate and demonstrate the use of our graph algorithms. The graph algorithms we have implemented thus far include breadth-first search (BFS), connected components (CC), k-Truss (KT), Jaccard coefficients (JC), triangle counting (TC), and triangle centrality (TCE). Their corresponding experimental results based on realworld and synthetic graphs are presented. Arachne is organized as an Arkouda extension package and is publicly available on GitHub (https://github.com/Bears-R-Us/arkouda-njit).
+abstract: Data from emerging applications, such as cybersecurity and social networking, can be abstracted as graphs whose edges are updated sequentially in the form of a stream. The challenging problem of interactive graph stream analytics is the quick response of the queries on terabyte and beyond graph stream data from end users. In this paper, a succinct and efficient double index data structure is designed to build the sketch of a graph stream to meet general queries. A single pass stream model, which includes general sketch building, distributed sketch based analysis algorithms and regression based approximation solution generation, is developed, and a typical graph algorithm—triangle counting—is implemented to evaluate the proposed method. Experimental results on power law and normal distribution graph streams show that our method can generate accurate results (mean relative error less than 4%) with a high performance. All our methods and code have been implemented in an open source framework, Arkouda, and are available from our GitHub repository, Bader-Research. This work provides the large and rapidly growing Python community with a powerful way to handle terabyte and beyond graph stream data using their laptops.
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -40,14 +39,14 @@ abstract: Due to the emergence of massive real-world graphs, whose sizes may ext
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Buy
-#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
+# - name: Custom Link
+#   url: http://example.org
 
-url_pdf: content/publication/2022-RDPLB/2022-RDPLB.pdf
+url_pdf: 'content/publication/2021-DAPB/2021-DAPB.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

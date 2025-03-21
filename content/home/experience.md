@@ -30,6 +30,15 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics. Explored the research process from literature review through algorithm design, implementation, and performance optimization. 
+  
+  - title: Chapel Programming Language Intern
+    company: Hewlett Packard Enterprise
+    company_url: 'https://chapel-lang.org/'
+    company_logo:
+    location:
+    date_start: '2024-06-01'
+    date_end: '2024-09-01'
+    description: Benchmarked high-performance distributed and parallel implementations of graph generation and breadth-first search in Chapel against the Graph500 benchmark that uses C with MPI. Presented results to the Chapel development team and HPE’s High-Performance Computing Advanced Development Organization. Provided actionable feedback to enhance Chapel’s support for irregular applications like graph analytics, including recommendations for improved user support in selecting between processor and network atomics, as well as suggestions for a more flexible communication aggregation library. Integrated this work into the Arachne graph analytics framework, achieving up to 76x speedup in distributed breadth-first search over the original implementation.
 
   - title: Teaching Assistant
     company: New Jersey Institute of Technology

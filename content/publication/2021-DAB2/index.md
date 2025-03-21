@@ -1,14 +1,12 @@
 ---
-title: 'Arachne: An Arkouda Package for Large-Scale Graph Analytics'
+title: 'Large Scale String Analytics In Arkouda'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Zhihui Du
-  - Joseph T. Patchett
-  - Fuhuan Li
+  - admin
   - David A. Bader
 
 # Author notes (optional)
@@ -16,8 +14,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
-# doi: '10.1109/HPEC49654.2021.9622860'
+date: '2021-09-01T00:00:00Z'
+doi: '10.1109/HPEC49654.2021.9622810'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-01T00:00:00Z'
@@ -32,7 +30,7 @@ publication_types: ['1']
 publication: In *High Performance Extreme Computing*
 publication_short: In *HPEC*
 
-abstract: Due to the emergence of massive real-world graphs, whose sizes may extend to terabytes, new tools must be developed to enable data scientists to handle such graphs efficiently. These graphs may include social networks, computer networks, and genomes. In this paper, we propose a novel graph package, Arachne, to make large-scale graph analytics more effortless and efficient based on the open-source Arkouda framework. Arkouda has been developed to allow users to perform massively parallel computations on distributed data with an interface similar to NumPy. In this package, we developed a fundamental sparse graph data structure and then built several useful graph algorithms around our data structure to form a basic algorithmic library. Benchmarks and tools were also developed to evaluate and demonstrate the use of our graph algorithms. The graph algorithms we have implemented thus far include breadth-first search (BFS), connected components (CC), k-Truss (KT), Jaccard coefficients (JC), triangle counting (TC), and triangle centrality (TCE). Their corresponding experimental results based on realworld and synthetic graphs are presented. Arachne is organized as an Arkouda extension package and is publicly available on GitHub (https://github.com/Bears-R-Us/arkouda-njit).
+abstract: Large scale data sets from the web, social networks, and bioinformatics are widely available and can often be rep-resented by strings and suffix arrays are highly efficient data structures enabling string analysis. But, our personal devices and corresponding exploratory data analysis (EDA) tools cannot handle big data sets beyond the local memory. Arkouda is a framework under early development that brings together the productivity of Python at the user side with the high-performance of Chapel at the server-side. In this paper, an efficient suffix array data structure design and integration method are given first. A suffix array algorithm library integration method instead of one single suffix algorithm is presented to enable runtime performance optimization in Arkouda since different suffix array algorithms may have very different practical performances for strings in various applications. A parallel suffix array construction algorithm framework is given to further exploit hierarchical parallelism on multiple locales in Chapel. A corresponding benchmark is developed to evaluate the feasibility of the provided suffix array integration method and measure the end-to-end performance. Experimental results show that the proposed solution can provide data scientists an easy and efficient method to build suffix arrays with high performance in Python. All our codes are open source and available from GitHub (https://github.com/Bader-Research/arkouda/tree/string-suffix-array-functionality).
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -40,14 +38,14 @@ abstract: Due to the emergence of massive real-world graphs, whose sizes may ext
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Buy
 #   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: content/publication/2022-RDPLB/2022-RDPLB.pdf
+url_pdf: content/publication/2021-DAB2/2021-DAB2.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
