@@ -10,7 +10,7 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Computer Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:oaa9@njit.edu
+    link: mailto:o.alva.rod@gmail.com
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
@@ -64,7 +64,7 @@ social:
     link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'oaa9@njit.edu'
+email: 'o.alva.rod@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
