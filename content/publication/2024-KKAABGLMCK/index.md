@@ -7,7 +7,7 @@ title: 'Community Detection in Hypergraphs via Mutual Information Maximization'
 authors:
   - Jurgen Kritschgau
   - Daniel Kaiser
-  - Oliver Alvarado Rodriguez
+  - admin
   - Ilya Amburg
   - Jessalyn Bolkema
   - Thomas Grubb
