@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-09-01T00:00:00Z'
-doi: '10.1109/HPEC58863.2023.10363498'
+# doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-09-01T00:00:00Z'
