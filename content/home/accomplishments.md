@@ -25,8 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end:
+    date_start: '2023-05-01'
+    organization: IEEE Technical Committee on Parallel Processing
+    organization_url: https://tc.computer.org/tcpp/
+    title: IPDPS23 Student Travel Awards
+    url: https://tc.computer.org/tcpp/awards/
+  - certificate_url:
+    date_end:
     date_start: '2022-10-06'
-    description: Travel grant award to attend The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2022. Acceptance rate of <20%.
     organization: IEEE Technical Committee on High Performance Computing
     organization_url: https://tc.computer.org/tchpc/
     title: SC22 Student Travel Awards
@@ -34,7 +40,6 @@ item:
   - certificate_url:
     date_end:
     date_start: '2022-01-25'
-    description: Week-long workshop solving problem(s) related to hypergraphs. Acceptance rate of <50%.
     organization: American Mathematical Society
     organization_url: https://www.ams.org/home/page
     title: Mathematics Research Community Participant
@@ -42,7 +47,6 @@ item:
   - certificate_url:
     date_end:
     date_start: '2020-05-01'
-    description: Awarded to the highest-GPA graduating senior in computer science.
     organization: William Paterson University
     organization_url: https://www.wpunj.edu/
     title: Omicron Omega Award for Excellence in Computer Science
@@ -50,7 +54,6 @@ item:
   - certificate_url:
     date_end:
     date_start: '2019-05-01'
-    description: Admittance to computer science students who maintain at least a B average in all courses.
     organization: William Paterson University
     organization_url: https://www.wpunj.edu/
     title: Upsilon Pi Epsilon International Honor Society
