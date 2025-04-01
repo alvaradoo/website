@@ -27,7 +27,7 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In The Proceedings of the 4th International Conference on Advances in Image Processing (ICAIP)
+publication: In The Proceedings of the 4th International Conference on Advances in Image Processing
 publication_short: In *ICAIP 2020*
 
 abstract: Machine learning (ML) is becoming a powerful tool for a variety of applications where artificial intelligence solutions are required. A ML benchmark is a standard suite to measure, evaluate and compare the performance and efficiency of ML systems. This study analyzes the benchmark results from two famous benchmarks MLMark and MLPerf to provide a basis of comparison between both benchmarks as well as to provide recommendations on computer architectures to utilize for ML inferencing. Lastly, special emphasis is placed on the performance of edge AI devices.

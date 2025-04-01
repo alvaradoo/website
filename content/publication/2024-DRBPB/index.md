@@ -1,11 +1,13 @@
 ---
-title: 'Adapting Arkouda for Enabling Large Scale Graph Algorithms'
+title: 'VF2-PS: Parallel and Scalable Subgraph Monomorphism in Arachne'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Fernando Vera Buschmann
+  - Zhihui Du
   - David A. Bader
 
 # Author notes (optional)
@@ -13,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-05-30T00:00:00Z'
-doi: '10.1109/HPEC49654.2021.9622860'
+date: '2024-09-01T00:00:00Z'
+doi: '10.1109/HPEC58863.2023.10363498'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2024-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +28,10 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2022 IEEE International Parallel and Distributed Processing Symposium*
-publication_short: In *IPDPS 22*
+publication: In *The 28th Annual IEEE High Performance Extreme Computing Conferenc*
+publication_short: In *HPEC 24*
 
-abstract: Large scale graph algorithms are required to help extract useful information from graphs. One of the main challenges arises when the size of the graph expands outside of the memory capacity that a typical computer can handle. Solutions must then be developed to allow data scientists to efficiently handle and analyze large graphs, using machines that have the capacity to handle massive graph sizes. Not only do these solutions need to be efficient, but they must also help simplify the implementation steps taken by data scientists. Arkouda is a software package under early development created with the intent to bridge the gap between massive parallel computations and data scientists wishing to perform exploratory data analysis by providing a NumPy-like interface for terabyte datasets. Arkouda is open source, and it is driven by a Python front-end with a Chapel back-end. Chapel is a programming language created by HPE and Cray to facilitate parallel program development. In this poster, we highlight the recent contributions to incorporate graph algorithms in Arkouda, their importance, the challenges that presented themselves, and future steps that need to be taken. This work can help further bridge the gap between high-performance computing (HPC) software and data science to create a framework that is straightforward for all data scientists to use. Our results show promise in using Arkouda for simplifying the interfaces required for graph analytical algorithms from conception to implementation. We especially acknowledge NSF grant number CCF-2109988 for funding this research.
+abstract: This paper introduces a novel, parallel, and scalable implementation of the VF2 algorithm for subgraph monomorphism developed in the high-productivity language Chapel. Efficient graph analysis in large and complex network datasets is crucial across numerous scientific domains. We address this need through our enhanced VF2 implementation, widely utilized in subgraph matching, and integrating it into Arachne—a Python-accessible, open-source, large-scale graph analysis framework. Leveraging the parallel computing capabilities of modern hardware architectures, our implementation achieves significant performance improvements. Benchmarks on synthetic and real-world datasets, including social, communication, and neuroscience networks, demonstrate speedups of up to 97X on 128 cores, compared to existing Python-based tools like NetworkX and DotMotif, which do not exploit parallelization. Our results on large-scale graphs demonstrate scalability and efficiency, establishing it as a viable tool for subgraph monomorphism, the backbone of numerous graph analytics such as motif counting and enumeration. Arachne, including our VF2 implementation, can be found on GitHub: https://github.com/Bears-R-Us/arkouda-njit.
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -44,7 +46,7 @@ featured: false
 # - name: Buy
 #   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
 
-url_pdf: content/publication/2022-IPDPS_phd_forum/2022-IPDPS_phd_forum.pdf
+# url_pdf:
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -35,7 +35,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Nature Scientific Reports*
-publication_short: In *Scientific Reports*
+publication_short: In *Nature Scientific Reports*
 
 abstract: The hypergraph community detection problem seeks to identify groups of related vertices in hypergraph data. We propose an information-theoretic hypergraph community detection algorithm which compresses the observed data in terms of community labels and community-edge intersections. This algorithm can also be viewed as maximum-likelihood inference in a degree-corrected microcanonical stochastic blockmodel. We perform the compression/inference step via simulated annealing. Unlike several recent algorithms based on canonical models, our microcanonical algorithm does not require inference of statistical parameters such as vertex degrees or pairwise group connection rates. Through synthetic experiments, we find that our algorithm succeeds down to recently-conjectured thresholds for sparse random hypergraphs. We also find competitive performance in cluster recovery tasks on several hypergraph data sets.
 
