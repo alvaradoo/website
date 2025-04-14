@@ -10,7 +10,7 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Computer Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
