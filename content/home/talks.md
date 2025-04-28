@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Talks & Tutorials'
+title: 'Tutorials and Invited Talks'
 
 content:
   # Page type to display. E.g. post, event, publication...
