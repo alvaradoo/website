@@ -14,8 +14,8 @@ role: Research Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: New Jersey Institute of Technology
-    url: https://www.njit.edu/
+  - name: Hewlett Packard Enterprise
+    url: www.hpe.com
 
 # Short bio (displayed in user profile at end of posts)
 bio:
