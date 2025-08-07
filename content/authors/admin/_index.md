@@ -10,7 +10,7 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Research Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,6 @@ email: 'o.alva.rod@gmail.com'
 highlight_name: true
 ---
 
-Oliver Alvarado Rodriguez is an incoming Software Engineer at Hewlett Packard Enterprise working on the Advanced Development Team where he will join the [Chapel](https://chapel-lang.org/) project. He successfully defended his Ph.D. dissertation in March 2025 at the New Jersey Institute of Technology under the advisement of Distinguished Professor [David A. Bader](https://davidbader.net/). His dissertation, "On the Design of a Framework for Large-Scale Exploratory Graph Analytics," focused on the development of [Arachne](https://github.com/Bears-R-Us/arkouda-njit), a novel framework designed to bridge the gap between high-performance computing and Python-based exploratory graph analytics. Oliver earned his B.S. in Computer Science with a minor in Mathematics from William Paterson University in Wayne, NJ, graduating *summa cum laude* in May 2020. During his undergraduate studies, he was a member of the Honors College, the Upsilon Pi Epsilon Honor Society for the Computing and Information discipline, and was honored with the Omicron Omega Award for excellence in Computer Science.
+Oliver Alvarado Rodriguez is a Software Engineer at Hewlett Packard Enterprise working on the Advanced Programming Team that helps maintain the [Chapel](https://chapel-lang.org/) project and supports other research initiatives with entities such as the Sandia and Oak Ridge National Laboratories. He successfully defended his Ph.D. dissertation in March 2025 at the New Jersey Institute of Technology under the advisement of Distinguished Professor [David A. Bader](https://davidbader.net/). His dissertation, "On the Design of a Framework for Large-Scale Exploratory Graph Analytics," focused on the development of [Arachne](https://github.com/Bears-R-Us/arkouda-njit), a novel framework designed to bridge the gap between high-performance computing and Python-based exploratory graph analytics. Oliver earned his B.S. in Computer Science with a minor in Mathematics from William Paterson University in Wayne, NJ, graduating *summa cum laude* in May 2020. During his undergraduate studies, he was a member of the Honors College, the Upsilon Pi Epsilon Honor Society for the Computing and Information discipline, and was honored with the Omicron Omega Award for excellence in Computer Science.
 
 
