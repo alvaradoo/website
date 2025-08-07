@@ -10,12 +10,12 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Research Software Engineer
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hewlett Packard Enterprise
-    url: www.hpe.com
+    url: https://www.hpe.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -23,8 +23,7 @@ bio:
 # Interests to show in About widget
 interests:
   - High Performance Computing
-  - Large-Scale Graph Analytics
-  - Data Science
+  - Parallel and Distributed Programming
 
 # Education to show in About widget
 education:
